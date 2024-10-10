@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome to AWS_AMPLIFY.
+          Hello Abdul Raheem Welcome to Canada!
         </p>
         <a
           className="App-link"
@@ -15,8 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Varun
-          Hello 106SAM
+        Hello Abdul Raheem Welcome to Canada!
         </a>
       </header>
     </div>
